@@ -1,8 +1,9 @@
 import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
+import Logo from './components/logo'
 
 const config: DocsThemeConfig = {
-  logo: <span>My Project</span>,
+  logo: <Logo />,
   project: {
     link: 'https://github.com/shuding/nextra-docs-template',
   },
@@ -11,7 +12,7 @@ const config: DocsThemeConfig = {
   },
   docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
   footer: {
-    text: 'Nextra Docs Template',
+    text: 'Notifs.io Documentation',
   },
 }
 

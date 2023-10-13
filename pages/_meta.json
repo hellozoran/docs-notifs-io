@@ -1,15 +1,10 @@
 {
   "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
-  "about": {
-    "title": "About",
-    "type": "page"
-  },
-  "contact": {
-    "title": "Contact ↗",
+  "usage": "Usage",
+  "visit": {
+    "title": "Go to Notifs.io ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://app.notifs.io",
     "newWindow": true
   }
 }
